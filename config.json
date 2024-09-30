@@ -1,0 +1,11 @@
+{
+    "telegram_bot_token": "here",
+    "telegram_chat_id": "here",
+    "accounts": [ 
+      {
+      "email": "contoh@gmail.com",
+      "token": "token",
+      "appid": " contoh : 66f67fd8s2n4b13s9ds01n3b"
+      }
+    ] 
+  }
